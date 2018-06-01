@@ -1,12 +1,28 @@
 {
   "alat_musik": {
+    "alatmusik-1": {
+      "value": "adalah alat musik pukul logam (metalofon) yang menjadi bagian dari perangkat gamelan Jawa dan Bali. Alat ini memiliki 10 sampai 14 bilah logam (kuningan) bernada yang digantungkan pada berkas, di atas resonator dari bambu atau seng, dan diketuk dengan pemukul berbetuk bundaran berbilah dari kayu (Bali) atau kayu berlapis kain (Jawa). Nadanya berbeda-beda, tergantung tangga nada yang dipakai. Pada gamelan Jawa yang lengkap terdapat tiga gender: slendro, pelog pathetnem dan lima, dan pelog pathet barang.",
+      "nama": "Gender"
+    },
     "alatmusik-2": {
       "value": "Seruling adalah...",
-      "nama": "Seruling"
+      "nama": "Siter"
     },
-    "alatmusik-1": {
-      "value": "gender adalah...",
-      "nama": "gender"
+    "alatmusik-3": {
+      "value": "Seruling adalah...",
+      "nama": "Kendhang"
+    },
+    "alatmusik-4": {
+      "value": "Seruling adalah...",
+      "nama": "Rebab"
+    },
+    "alatmusik-5": {
+      "value": "Seruling adalah...",
+      "nama": "Suling"
+    },
+    "alatmusik-6": {
+      "value": "Seruling adalah...",
+      "nama": "Kempul"
     }
   }
 }
