@@ -1,28 +1,16 @@
 {
   "alat_musik": {
     "alatmusik-1": {
-      "value": "adalah alat musik pukul logam (metalofon) yang menjadi bagian dari perangkat gamelan Jawa dan Bali. Alat ini memiliki 10 sampai 14 bilah logam (kuningan) bernada yang digantungkan pada berkas, di atas resonator dari bambu atau seng, dan diketuk dengan pemukul berbetuk bundaran berbilah dari kayu (Bali) atau kayu berlapis kain (Jawa). Nadanya berbeda-beda, tergantung tangga nada yang dipakai. Pada gamelan Jawa yang lengkap terdapat tiga gender: slendro, pelog pathetnem lima dan pelog pathet barang.",
-      "nama": "Gender"
+      "value": "Kenong merupakan salah satu alat musik yang menyusun gamelan Jawa. Kenong biasanya dimainkan dengan dipukul oleh satu alat pemukul. Alat ini merupakan pengisi akor atau harmoni dalam permainkan gamelan, kenong berfungsi sebagai penentu batas-batas gatra, menegaskan irama. Kenong juga termasuk dalam alat musik berpencu, namun ukuran lebih besar daripada bonang. Alat ini juga dipukul menggunakan alat pemukul kayu yang dililitkan kain. Jumlah dalam satu set bervariasi tetapi biasanya sekitar 8-10 buah.",
+      "nama": "Kenong"
     },
     "alatmusik-2": {
-      "value": "Nama siter berasal dari Bahasa Belanda 'citer', yang juga berhubungan dengan Bahasa Inggris 'zither'. Celempung berkaitan dengan bentuk musikal Sunda celempungan. Senar siter dimainkan dengan ibu jari, sedangkan jari lain digunakan untuk menahan getaran ketika senar lain dipetik, ini biasanya merupakan ciri khas instrumen gamelan. Jari kedua tangan digunakan untuk menahan, dengan jari tangan kanan berada di bawah senar sedangkan jari tangan kiri berada di atas senar.",
-      "nama": "Siter"
+      "value": "Alat memiliki bilahan-bilahan yang disusun diatas bingkai kayu dan biasanya terdiri dari enam bilah dan ada juga yang terdiri dari tujuh bilah.  Fungsi dari ketiga alat ini adalah sebagai resonator. Cara menggunakan Instrumen ini yaitu dengan cara dipukul dengan menggukana pemukul yang terbuat dari kayu.  Bila dilihat dari ukuran dan fungsinya, instrumen ini mempunyai tiga jenis yaitu demung (alat yang paling besar), saron (berukuran sedang) dan, peking (memiliki ukuran paling kecil).",
+      "nama": "Peking"
     },
     "alatmusik-3": {
-      "value": "Berfungsi utama untuk mengatur irama. Kendhang ini dibunyikan dengan tangan, tanpa alat bantu. Jenis kendang yang kecil disebut ketipung, yang menengah disebut kendang ciblon/kebar. Pasangan ketipung ada satu lagi bernama kendang gedhe biasa disebut kendang kalih. Kendang kalih dimainkan pada lagu atau gendhing yang berkarakter halus seperti ketawang, gendhing kethuk kalih, dan ladrang irama dadi.Bisa juga dimainkan cepat pada pembukaan lagu jenis lancaran ,ladrang irama tanggung.",
-      "nama": "Kendhang"
-    },
-    "alatmusik-4": {
-      "value": "Instrumen kawat-gesek dengan dua kawat ditegangkan pada selajur kayu dengan badan berbentuk hati ditutup dengan membran (kulit tipis) dari babad sapi. Sebagai salah satu dari instrumen pemuka, rebab diakui sebagai pemimpin lagu dalam ansambel, terutama dalam gaya tabuhan lirih. Pada kebanyakan gendhing-gendhing, rebab memainkan lagu pembuka gendhing, menentukan gendhing, laras dan pathet yang akan dimainkan. Wilayah nada rebab mencakup luas wilayah gendhing apa saja. Maka alur lagu rebab memberi petunjuk yang jelas jalan alur lagu gendhing. Pada kebanyakan gendhing-gendhing, rebab memainkan lagu pembuka gendhing, menentukan gendhing, laras dan pathet yang akan dimainkan. Wilayah nada rebab mencakup luas wilayah gendhing",
-      "nama": "Rebab"
-    },
-    "alatmusik-5": {
-      "value": "Jenis instrumen gamelan lainnya yang juga berfungsi sebagai pangrengga lagu adalah suling. Instrumen ini terbuat dari bambu wuluh atau paralon yang diberi lubang sebagai penentu nada atau laras. Pada salah satu ujungnya yaitu bagian yang di tiup yang melekat di bibir diberi lapisan tutup dinamakan jamangan yang berfungsi untuk mengalirkan udara sehingga menimbulkan getaran udara yang menimbulkan bunyi atau suara Adapun teknik membunyikannya dengan cara di tiup.",
-      "nama": "Suling"
-    },
-    "alatmusik-6": {
-      "value": "Kempul merupakan salah satu dari perangkat gamelan yang dimainkan dengan cara ditabuh, Kempul mirip dengan gong karena memang kempul  biasanya di gantung menjadi 1 dengan gong. Kempul bisa dibilang juga anak dari gong karena bentuk fisiknya yang lebih kecil ketimbang gong. Kempul termasuk alat musik gamelan yang keras. Dalam sebuah lagu/gendhing, kempul bisa memainkan nada yang sama dengan balungan, terkadang kempul mendahului nada balungan",
-      "nama": "Kempul"
+      "value": "Secara umum Gong merupakan alat musik yang terbuat dari leburan logam (perunggu dengan tembaga) dengan permukaan yang bundar (dengan atau tanpa Pencu). Gong dapat di gantung pada bingkai atau diletakkan berjajar pada rak, atau bisa ditempatkan pada permukaan yang lunak seperti tikar. Selain itu ada juga gong genggam yang dimainkan sambil berjalan ataupun menari. Gong yang memiliki suara rendah, ditabuh dengan pemukul kayu yang ujungnya di balut dengan karet, katun, atau benang. Seperti dikutip Dari Wikipedia bahasa Indonesia, Gong adalah merupakan sebuah alat musik pukul yang terkenal di Asia Tenggara dan Asia Timur. Gong ini digunakan untuk alat musik tradisional. Gong yang telah ditempa belum dapat ditentukan nadanya. Nada gong baru terbentuk setelah dibilas dan dibersihkan. Apabila nadanya masih belum sesuai, gong dikerok sehingga lapisan perunggunya menjadi lebih tipis.",
+      "nama": "Gong"
     }
   }
 }
