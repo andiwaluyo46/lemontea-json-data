@@ -1,31 +1,27 @@
 {
   "alat_musik": {
     "alatmusik-1": {
-      "value": "Kenong merupakan salah satu alat musik yang menyusun gamelan Jawa. Kenong biasanya dimainkan dengan dipukul oleh satu alat pemukul. Alat ini merupakan pengisi akor atau harmoni dalam permainkan gamelan, kenong berfungsi sebagai penentu batas-batas gatra, menegaskan irama. Kenong juga termasuk dalam alat musik berpencu, namun ukuran lebih besar daripada bonang. Alat ini juga dipukul menggunakan alat pemukul kayu yang dililitkan kain. Jumlah dalam satu set bervariasi tetapi biasanya sekitar 8-10 buah.",
+      "value": "Kenong merupakan salah satu unsur gamelan jawa, dan juga dapat ditemukan dalam degung gamelan sunda, kenong merupakan pengisi akor harmoni dalam gamelan jawa, yang memiliki fungsi sebagai penentu batas-batas gatra dan penegasan irama. Kenong merupakan alat pukul yang dibunyikan menggunakan pemukul kayu yang dililit kain. Jumlah dalam satu set bervariasi tapi biasanya sekitar 8 - 10 buah.",
       "nama": "Kenong"
     },
     "alatmusik-2": {
-      "value": "Alat memiliki bilahan-bilahan yang disusun diatas bingkai kayu dan biasanya terdiri dari enam bilah dan ada juga yang terdiri dari tujuh bilah.  Fungsi dari ketiga alat ini adalah sebagai resonator. Cara menggunakan Instrumen ini yaitu dengan cara dipukul dengan menggukana pemukul yang terbuat dari kayu.  Bila dilihat dari ukuran dan fungsinya, instrumen ini mempunyai tiga jenis yaitu demung (alat yang paling besar), saron (berukuran sedang) dan, peking (memiliki ukuran paling kecil).",
+      "value": "Peking atau yang memiliki nama lain saron atau ricik, merupakan instrumen gamelan yang termasuk kategori balungan, biasanya dalam gamelan memiliki 4 peking dan semuanya memiliki versi pelog dan slendro, Peking memiliki nada suara paling tinggi dengan oktaf tunggal, satu oktaf lebih tinggi daripada demung. Peking dimainkan dengan cara dipukul dengan menggunakan tabuh, tabuh peking terbuat dari kayu yang dibentuk menjadi palu. Dalam memainkannya, tangan kanan digunakan untuk memukul lembaran logam dengan tabuh, lalu tangan kiri untuk memencet lembaran logam yang telah dipukul untuk menghentikan dengungan yang tersisa.",
       "nama": "Peking"
     },
     "alatmusik-3": {
-      "value": "Secara umum Gong merupakan alat musik yang terbuat dari leburan logam (perunggu dengan tembaga) dengan permukaan yang bundar (dengan atau tanpa Pencu). Gong dapat di gantung pada bingkai atau diletakkan berjajar pada rak, atau bisa ditempatkan pada permukaan yang lunak seperti tikar. Selain itu ada juga gong genggam yang dimainkan sambil berjalan ataupun menari. Gong yang memiliki suara rendah, ditabuh dengan pemukul kayu yang ujungnya di balut dengan karet, katun, atau benang. Seperti dikutip Dari Wikipedia bahasa Indonesia, Gong adalah merupakan sebuah alat musik pukul yang terkenal di Asia Tenggara dan Asia Timur. Gong ini digunakan untuk alat musik tradisional. Gong yang telah ditempa belum dapat ditentukan nadanya. Nada gong baru terbentuk setelah dibilas dan dibersihkan. Apabila nadanya masih belum sesuai, gong dikerok sehingga lapisan perunggunya menjadi lebih tipis.",
+      "value": "Gong adalah alat musik yang cukup populer terutama di asia tenggara dan timur, secara umum gong merupakan alat musik tradisional yang terbuat dari leburan perunggu dan tembaga yang dibuat dengan bentuk melingkar dan permukaan yang bundar. Gong dimainkan dengan ditopang oleh kelima jari dengan cara dipukul oleh sebuah pemukul yang terbuat dari kayu dengan lilitan kain. Biasanya alat musik gong dimainkan sebagai bagian dari upacara atau ritual keluarga dan masyarakat.",
       "nama": "Gong"
     },
     "alatmusik-4": {
-      "value": "",
+      "value": "Gender adalah bagian dari gamelan jawa dan bali yang berbentuk logam yang terdiri dari 10-14 buah kuningan diatas resonator dari bambu atau seng. Gender dimainkan dengan dua buah palu yang memiliki cakram dan pegangan kayu. Gender biasanya memainkan bagian elaborasi untuk memperkaya melodi.",
       "nama": "Gender"
     },
     "alatmusik-5": {
-      "value": "",
-      "nama": "Saron"
-    },
+      "value": "Siter adalah sejenis kecapi dengan jajaran dawai. Tabung resonasi pada siter terbuat dari kotak kayu. Alat musik ini terdapat di daerah Jawa. Siter dimainkan dengan cara di petik, biasanya masing-masing memiliki 11 dan 13 pasang senar.",
+      "nama": "Siter"
+    }
     "alatmusik-6": {
-      "value": "",
-      "nama": "Gendang"
-    },
-    "alatmusik-7": {
-      "value": "",
+      "value": "Suling adalah alat musik yang teknik permainannya di tiup, terbuat dari bambu dan hampir semua daerah di Indonesia dapat kita temukan. Nada dalam suling bisa mencapai 3 oktaf atau lebih. Memiliki 4-8 lubang.",
       "nama": "Suling"
     }
   }
