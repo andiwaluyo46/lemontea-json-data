@@ -1,0 +1,4 @@
+Berikut adalah Kebijakan Privasi Penggunaan Aplikasi Virtual INMUINS
+
+1. Penggunaan Kamera sebagai fitur utama yaitu untuk mendeteksi sebuah marker untuk dijadikan sebuah alat pukul di dalam aplikasi
+2. Aplikasi bersifat Testing, sehingga aplikasi kemungkinan akan terjadi ketidak stabilan
